@@ -3,8 +3,8 @@
 
 Source code available in:
 
-- Java:   k-gon-UEx.java
-- Python: k-gon-UEx.py
+- Java:   ps.java
+- Python: ps.py
 
 Contact:
 - Media Engineering Group - University of Extremadura
